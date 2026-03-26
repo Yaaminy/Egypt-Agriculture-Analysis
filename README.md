@@ -45,10 +45,10 @@ This project delivers a comprehensive, data-driven analysis of Egypt's agricultu
 This project was a collaborative effort by our dedicated team of Data Analysts:
 * **Asmaa Abdelrahman**
 * **Eman Salah**
+* **Yasmin Osama**
 * **Marwa Ali**
 * **Shahd Mohamed**
 * **Shahd Mostafa**
-* **Yasmin Osama**
 
 ---
 *Prepared as part of the data analysis professional development journey.*
