@@ -47,7 +47,7 @@ This project was a collaborative effort by our dedicated team of Data Analysts:
 * *eman Salah*
 * *marwa Ali*
 * *shahd Mohamed*
-* shahd Mostafa
+* *shahd Mostafa*
 * ***Yasmin Osama***
 
 ---
