@@ -10,7 +10,7 @@
 
 | | |
 |:---:|:---:|
-| ![Page 1](cover.png) | ![Page 2](p1.png) |
+| ![Page 1](cover.png) | 
 | ![Page 3](p2.png) | ![Page 4](p3.png) |
 | ![Page 5](p4.png) | ![Page 6](p5.png) |
 | ![Page 7](p6.png) | ![Page 8](p7.png) |
